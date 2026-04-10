@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { Suspense } from 'react';
 import Navbar from "@/components/navbar"
 import DeleteEventButton from "@/components/delete-event-button";
